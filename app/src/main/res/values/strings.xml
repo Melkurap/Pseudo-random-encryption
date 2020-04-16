@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Szyfr</string>
+    <string name="klucz">klucz</string>
+    <string name="zdanie">zdanie</string>
+    <string name="zatwierdź">zatwierdź</string>
+    <string name="szyfruj">szyfruj</string>
+    <string name="rozszyfruj">rozszyfruj</string>
+    <string name="zakres_0_3956279999">Zakres 0 - 3956279999</string>
+    <string name="do_szyfrowania_u_yj_du_ych_liter">Do szyfrowania użyj dużych liter</string>
+</resources>
